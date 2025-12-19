@@ -1,0 +1,44 @@
+{
+    "1": [
+        "https://ethereum.publicnode.com",
+        "https://1rpc.io/eth",
+        "https://eth.llamarpc.com"
+    ],
+    "8453": [
+        "https://base.publicnode.com",
+        "https://1rpc.io/base",
+        "https://base.llamarpc.com"
+    ],
+    "42161": [
+        "https://arbitrum.publicnode.com",
+        "https://1rpc.io/arb",
+        "https://arb1.arbitrum.io/rpc"
+
+    ],
+    "10": [
+        "https://optimism.publicnode.com",
+        "https://1rpc.io/op"
+    ],
+    "56": [
+        "https://bsc.publicnode.com",
+        "https://1rpc.io/bnb"
+    ],
+    "137": [
+        "https://polygon.publicnode.com",
+        "https://1rpc.io/polygon"
+    ],
+    "81457": [
+        "https://blast.publicnode.com",
+        "https://1rpc.io/blast"
+    ],
+    "59144": [
+        "https://linea.publicnode.com",
+        "https://1rpc.io/linea"
+    ],
+    "324": [
+        "https://zksync-era.publicnode.com"
+    ],
+    "534352": [
+        "https://scroll.publicnode.com"
+    ]
+}
